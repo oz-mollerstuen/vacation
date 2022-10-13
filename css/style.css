@@ -1,0 +1,22 @@
+img {
+  width: 30%;
+  float: center;
+  padding: 3%;
+  }
+
+.container {
+  text-align: center;
+  background-color: rgb(125, 63, 63);
+}
+
+.blockquote {
+  text-align: center;
+  }
+
+.padding{
+  padding-bottom: 5%;
+}
+
+body {
+  background-color: rgb(139, 75, 75);
+}
